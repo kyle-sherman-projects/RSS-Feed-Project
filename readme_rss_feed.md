@@ -187,7 +187,7 @@ Contributions welcome! Please feel free to submit pull requests or open issues f
 
 ## License
 
-MIT License - feel free to use and modify for your research needs.
+GPL v3 - feel free to use and modify for your research needs.
 
 ## Acknowledgments
 
