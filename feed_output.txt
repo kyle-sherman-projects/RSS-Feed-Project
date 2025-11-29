@@ -1,0 +1,31 @@
+Fetching feeds...
+Fetching: https://www.journals.elsevier.com/computers-and-education/rss
+Fetching: https://onlinelibrary.wiley.com/feed/14678535/most-recent
+Fetching: https://rss.sciencedirect.com/publication/science/2666920X
+
+Found 121 relevant articles
+Saved 0 new articles to database
+
+================================================================================
+TOP RECENT ARTICLES
+================================================================================
+
+1. [5 pts] Style, Sentiment, and Quality of Undergraduate Writing in the AI Era: A Cross-Sectional and Longitudinal Analysis of 4,820 Authentic Empirical Reports
+   Link: https://www.sciencedirect.com/science/article/pii/S2666920X2500147X?dgcid=rss_sd_all
+   Keywords: artificial intelligence, AI
+--------------------------------------------------------------------------------
+
+2. [3 pts] Level-Specific Feedback Generation for Scene Descriptions via Fine-tuning Multimodal Large Language Models
+   Link: https://www.sciencedirect.com/science/article/pii/S2666920X2500150X?dgcid=rss_sd_all
+   Keywords: artificial intelligence
+--------------------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\wayfa\PycharmProjects\RSS Feed Project\RSS_feed.py", line 243, in <module>
+    reader.run()
+  File "C:\Users\wayfa\PycharmProjects\RSS Feed Project\RSS_feed.py", line 237, in run
+    self.display_articles(recent)
+  File "C:\Users\wayfa\PycharmProjects\RSS Feed Project\RSS_feed.py", line 215, in display_articles
+    print(f"\n{i}. [{score} pts] {title}")
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+UnicodeEncodeError: 'charmap' codec can't encode character '\u2010' in position 76: character maps to <undefined>
