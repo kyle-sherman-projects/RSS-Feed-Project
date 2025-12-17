@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f02d0b21-19a5-49a8-b3f0-098eebcde5d3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="33lZ6ANg9ZY47XtWfqQOrpA7wEC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Batch.run_feed_reader.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.RSS Feed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/wayfa/PycharmProjects/RSS Feed"
+  },
+  "keyToStringList": {
+    "DataSpellDriversLRU": [
+      "sqlite.xerial"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d27dc8f8c276-a636b6f4477c-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-252.26199.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f02d0b21-19a5-49a8-b3f0-098eebcde5d3" name="Changes" comment="" />
+      <created>1759893445003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759893445003</updated>
+    </task>
+    <servers />
+  </component>
+</project>
